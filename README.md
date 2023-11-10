@@ -10,6 +10,8 @@
 - [x] 홈 화면 구현 1차
 - [x] MovieItem 컴포넌트 작업
 - [x] 홈 화면 API 연동
+- [x] 서브페이지 라우팅, 페이지 작업
+- [x] Card 컴포넌트 작업
 
 
 ## 의존 모듈
@@ -19,4 +21,7 @@ npm i react-router-dom
 
 # 스타일 컴포넌트
 npm i styled-components
+
+# 로딩 효과
+npm i react-loading-skeleton
 ```
